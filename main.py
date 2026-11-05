@@ -76,7 +76,7 @@ def run_full_pipeline():
                         if match:
                             link_found = match.group(1)
                             content_id = link_found.replace(prefix, "").strip()
-                            http_url = f"http://127.0.0.1:6878/ace/getstream?id={content_id}"
+                            http_url = f"http://192.168.1.30:6878/ace/getstream?id={content_id}"
                             line = line.replace(link_found, http_url)
                             converted_count += 1
                 updated_lines.append(line)
