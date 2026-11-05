@@ -16,26 +16,6 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",7h30 São Paulo---Corinthians 1 MATCH 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png",7h30 São Paulo---Corinthians 2 PREMIER SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",7h30 São Paulo---Corinthians 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",17h00 Lion City Sailors---Adelaide United 1 SPORT 3 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb0a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",17h00 Lion City Sailors---Adelaide United 2 ESPN BE FHD
-http://192.168.1.30:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sport-1-baltic.png",17h00 Lion City Sailors---Adelaide United 3 SPORT 1 B FHD
-http://192.168.1.30:6878/ace/getstream?id=337ae5837b9ea2157d48a711909d65ebff3673a5
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-4-1024.png",17h00 Machida Zelvia---Shanghai Shenhua 1 SPORT 4 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=440265fecde5d316e06fea019775208cf4c3feec
-
-
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",0h45 Real Sociedad---Lyon 1 ELEVEN 3 PT FHD
 http://192.168.1.30:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-liga-de-campeones.png",0h45 Real Sociedad---Lyon 2 M LC FHD
