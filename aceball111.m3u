@@ -16,16 +16,6 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",15h40 Sydney FC---Central Coast Mariners 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",15h40 Sydney FC---Central Coast Mariners 2 SPORTDIGITAL FHD
-http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png",19h00 Maccabi Tel Aviv---Maccabi Petah Tikva 1 SPORT 1 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
-
-
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",23h30 Lokomotiv Moskva---Rubin Kazan 1 MATCH PREMIER FHD
 http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h30 Lokomotiv Moskva---Rubin Kazan 2 PIMPLETV 4 FHD 50FPS
@@ -139,6 +129,12 @@ http://192.168.1.30:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a90
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",3h00 Sevilla---Deportivo Alavés 7 DAZN LALIGA FHD
 http://192.168.1.30:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h00 Sevilla---Deportivo Alavés 8 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-liga-de-campeones.png",5h15 San Lorenzo---Platense 1 M LC FHD
+http://192.168.1.30:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",5h15 San Lorenzo---Platense 2 PIMPLETV 5 FHD 50FPS
 #http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 
 
