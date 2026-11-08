@@ -16,22 +16,6 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png",11h00 Macarthur---Brisbane Roar 1 BT SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",13h00 Adelaide United---Melbourne Victory 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png",13h00 Adelaide United---Melbourne Victory 2 BT SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",15h30 Ural---Volga Ulyanovsk 1 MATCH PREMIER FHD
-http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",15h30 Ural---Volga Ulyanovsk 2 PIMPLETV 4 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
-
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",17h30 Rizespor---BB Erzurumspor 1 BEIN 2 TR FHD
 http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 
@@ -67,7 +51,7 @@ http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e2
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",18h30 Napoli---Lazio 5 SSPORT 2 FHD
 http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",18h30 Napoli---Lazio 6 PIMPLETV 5 FHD 50FPS
-#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",19h00 WOMEN Liverpool---Arsenal 1 SKY FOOTBALL FHD
@@ -93,7 +77,7 @@ http://192.168.1.30:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c39235
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",20h00 Elche---Real Betis 5 DAZN LALIGA FHD
 http://192.168.1.30:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h00 Elche---Real Betis 6 PIMPLETV 5 FHD 50FPS
-#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+http://192.168.1.30:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",20h00 Çorum Belediyespor---Fenerbahçe 1 MATCH 3 FHD
@@ -163,7 +147,7 @@ http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",21h00 Genoa---AC Milan 4 SSPORT 2 FHD
 http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h00 Genoa---AC Milan 5 PIMPLETV 5 FHD 50FPS
-#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",21h00 Monza---Atalanta 1 ELEVEN 4 FHD
