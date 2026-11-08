@@ -1,6 +1,6 @@
 ﻿#EXTM3U url-tvg="http://bit.ly/guidevn"
 
-#EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",✍ Kham Pha 7/11--8/11
+#EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",✍ Kham Pha 8/11--9/11
 http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8d2
 #EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",CÁC BÁC CHÚ Ý
 http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8d2
@@ -16,280 +16,378 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",20h30 Akhmat Grozny---Rodina Moskva 1 MATCH PREMIER FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png",11h00 Macarthur---Brisbane Roar 1 BT SPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",13h00 Adelaide United---Melbourne Victory 1 BT SPORT 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png",13h00 Adelaide United---Melbourne Victory 2 BT SPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",15h30 Ural---Volga Ulyanovsk 1 MATCH PREMIER FHD
 http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h30 Akhmat Grozny---Rodina Moskva 2 PIMPLETV 4 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",15h30 Ural---Volga Ulyanovsk 2 PIMPLETV 4 FHD 50FPS
 http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png",20h45 Śląsk Wrocław---Piast Gliwice 1 CANAL+ SPORT 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",17h30 Rizespor---BB Erzurumspor 1 BEIN 2 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",21h00 Torino---Lecce 1 MATCH 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",21h00 Torino---Lecce 2 SSPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h00 Torino---Lecce 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",18h00 Krylya Sovetov---Orenburg 1 MATCH PREMIER FHD
+http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",18h00 Krylya Sovetov---Orenburg 2 PIMPLETV 4 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",21h00 Cagliari---Frosinone 1 MATCH 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",21h00 Cagliari---Frosinone 2 ELEVEN 4 FHD
-http://192.168.1.30:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",21h30 Borussia Dortmund---Elversberg 1 ELEVEN 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",21h30 Borussia Dortmund---Elversberg 2 DAZN 1 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h30 Borussia Dortmund---Elversberg 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",21h30 Mainz 05---Bayern Munich 1 ELEVEN 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png",21h30 Mainz 05---Bayern Munich 2 ELEVEN 4 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-bundesliga-1-1804.png",21h30 Mainz 05---Bayern Munich 3 SKY BUNDESLIGA 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",21h30 Mainz 05---Bayern Munich 4 SPORT 3 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb0a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h30 Mainz 05---Bayern Munich 5 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",22h00 ARSENAL---HULL CITY 1 ELEVEN 1 PT FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",18h15 Heerenveen---Feyenoord 1 ESPN 2 BE FHD
+http://192.168.1.30:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport-premium-1.png",18h15 Heerenveen---Feyenoord 2 POLSAT PREMIUM 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",18h15 Heerenveen---Feyenoord 3 ELEVEN 1 PT FHD
 http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",22h00 ARSENAL---HULL CITY 2 DAZN 1 ES FHD
-http://192.168.1.30:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h00 ARSENAL---HULL CITY 3 PIMPLETV 3 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",22h00 ARSENAL---HULL CITY 4 SETANTA 1 RU FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",18h15 Heerenveen---Feyenoord 4 SPORTDIGITAL FHD
+http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-4-1024.png",18h15 Heerenveen---Feyenoord 5 SPORT 4 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=440265fecde5d316e06fea019775208cf4c3feec
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",18h15 Heerenveen---Feyenoord 6 SETANTA 1 RU FHD
 http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-cz-2780.png",22h00 ARSENAL---HULL CITY 5 CANAL+ SPORT CZ FHD
-http://192.168.1.30:6878/ace/getstream?id=fc702b72e42792a13c1f531004c2df2ac8242b69
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png",22h00 ARSENAL---HULL CITY 6 SPORT 1 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",22h00 ARSENAL---HULL CITY 7 BEIN 3 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",22h00 FULHAM---NEWCASTLE 1 ELEVEN 2 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",22h00 FULHAM---NEWCASTLE 2 SPORT 2 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=91d55b166a56acf8604f114be8c4e4a01b255a9f
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h00 FULHAM---NEWCASTLE 3 PIMPLETV 5 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",18h30 Napoli---Lazio 1 MATCH 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",18h30 Napoli---Lazio 2 ELEVEN 1 4K
+http://192.168.1.30:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png",18h30 Napoli---Lazio 3 ELEVEN 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",18h30 Napoli---Lazio 4 DAZN 1 DE FHD
+http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",18h30 Napoli---Lazio 5 SSPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",18h30 Napoli---Lazio 6 PIMPLETV 5 FHD 50FPS
 #http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",22h15 Espanyol---Deportivo La Coruña 1 MATCH 2 FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",19h00 WOMEN Liverpool---Arsenal 1 SKY FOOTBALL FHD
+http://192.168.1.30:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",19h30 Heidenheim---Hannover 96 1 PIMPLETV 6 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",19h30 Magdeburg---St Pauli 1 ELEVEN 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",20h00 Elche---Real Betis 1 MATCH 2 FHD
 http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",22h15 Espanyol---Deportivo La Coruña 2 ELEVEN 3 PT FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",20h00 Elche---Real Betis 2 ELEVEN 3 PT FHD
 http://192.168.1.30:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png",22h15 Espanyol---Deportivo La Coruña 3 CANAL+ SPORT FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png",20h00 Elche---Real Betis 3 CANAL+ SPORT FHD
 http://192.168.1.30:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",22h15 Espanyol---Deportivo La Coruña 4 DAZN 2 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-voetbal.png",22h15 Espanyol---Deportivo La Coruña 5 ZIGGO SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png",22h15 Espanyol---Deportivo La Coruña 6 ZIGGO SPORT FHD
-http://192.168.1.30:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",22h15 Espanyol---Deportivo La Coruña 7 DAZN LALIGA FHD
-http://192.168.1.30:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h15 Espanyol---Deportivo La Coruña 8 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",22h30 Fortuna Sittard---Telstar 1 ESPN 2 BE FHD
-http://192.168.1.30:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",23h00 Galatasaray---Amed SK 1 MATCH 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",23h00 Galatasaray---Amed SK 2 BEIN 1 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h00 Galatasaray---Amed SK 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",23h00 Göztepe---İstanbul Başakşehir 1 BEIN 2 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png",23h30 Krasnodar---CSKA Moskva 1 MATCH TV FHD
-http://192.168.1.30:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",23h30 Krasnodar---CSKA Moskva 2 MATCH PREMIER FHD
-http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h30 Krasnodar---CSKA Moskva 3 PIMPLETV 4 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png",23h30 Górnik Zabrze---Wieczysta Kraków 1 CANAL+ SPORT 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sport-1-baltic.png",23h30 Górnik Zabrze---Wieczysta Kraków 2 SPORT 1 B FHD
-http://192.168.1.30:6878/ace/getstream?id=337ae5837b9ea2157d48a711909d65ebff3673a5
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",0h00 Parma---Bologna 1 MATCH 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",0h00 Parma---Bologna 2 ELEVEN 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",0h00 Parma---Bologna 3 SSPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h00 Parma---Bologna 4 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png",0h30 NOTTINGHAM FOREST---MAN CITY 1 SKY PL FHD
-http://192.168.1.30:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",0h30 NOTTINGHAM FOREST---MAN CITY 2 SKY ME FHD
-http://192.168.1.30:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",0h30 NOTTINGHAM FOREST---MAN CITY 3 ELEVEN 1 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",0h30 NOTTINGHAM FOREST---MAN CITY 4 DAZN 1 ES FHD
-http://192.168.1.30:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h30 NOTTINGHAM FOREST---MAN CITY 5 PIMPLETV 3 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",0h30 NOTTINGHAM FOREST---MAN CITY 6 SETANTA 1 RU FHD
-http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png",0h30 NOTTINGHAM FOREST---MAN CITY 7 SPORT 1 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
-#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-cz-2780.png",0h30 NOTTINGHAM FOREST---MAN CITY 8 CANAL+ SPORT CZ FHD
-http://192.168.1.30:6878/ace/getstream?id=fc702b72e42792a13c1f531004c2df2ac8242b69
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",0h30 NOTTINGHAM FOREST---MAN CITY 9 BEIN 3 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",0h30 Osasuna---Athletic Club 1 MATCH 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",0h30 Osasuna---Athletic Club 2 ELEVEN 2 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png",0h30 Osasuna---Athletic Club 3 PREMIER SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",0h30 Osasuna---Athletic Club 4 DAZN 2 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-voetbal.png",0h30 Osasuna---Athletic Club 5 ZIGGO SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png",0h30 Osasuna---Athletic Club 6 ZIGGO SPORT FHD
-http://192.168.1.30:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",0h30 Osasuna---Athletic Club 7 M LALIGA FHD
-http://192.168.1.30:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h30 Osasuna---Athletic Club 8 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",0h30 Stuttgart---Werder Bremen 1 ELEVEN 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-bundesliga-1-1804.png",0h30 Stuttgart---Werder Bremen 2 SKY BUNDESLIGA 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",0h30 Stuttgart---Werder Bremen 3 SKY FOOTBALL FHD
-http://192.168.1.30:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-4-1024.png",0h30 Stuttgart---Werder Bremen 4 SPORT 4 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=440265fecde5d316e06fea019775208cf4c3feec
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h30 Stuttgart---Werder Bremen 5 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",0h45 ADO Den Haag---Sparta Rotterdam 1 ESPN BE FHD
-http://192.168.1.30:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",0h45 Aberdeen---Hibernian 1 PREMIER SPORT 1 FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",20h00 Elche---Real Betis 4 PREMIER SPORT 1 FHD
 http://192.168.1.30:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",0h45 Aberdeen---Hibernian 2 SPORTDIGITAL FHD
-http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",1h00 Auxerre---Paris 1 ELEVEN 4 FHD
-http://192.168.1.30:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png",1h00 Auxerre---Paris 2 SPORT 5+ IL FHD
-http://192.168.1.30:6878/ace/getstream?id=020dd0e3c99c04b9ec60ffcb9fb83ad1849b35eb
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",1h00 Auxerre---Paris 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h30 Hertha---Wolfsburg 1 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",2h45 AS Roma---Sassuolo 1 MATCH 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",2h45 AS Roma---Sassuolo 2 ELEVEN 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",2h45 AS Roma---Sassuolo 3 SPORT 3 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb0a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",2h45 AS Roma---Sassuolo 4 SSPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h45 AS Roma---Sassuolo 5 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",3h00 Valencia---Real Madrid 1 MATCH 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",3h00 Valencia---Real Madrid 2 ELEVEN 1 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png",3h00 Valencia---Real Madrid 3 MATCH TV FHD
-http://192.168.1.30:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png",3h00 Valencia---Real Madrid 4 CANAL+ SPORT FHD
-http://192.168.1.30:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",3h00 Valencia---Real Madrid 5 DAZN 2 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png",3h00 Valencia---Real Madrid 6 ZIGGO SPORT FHD
-http://192.168.1.30:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",3h00 Valencia---Real Madrid 7 DAZN LALIGA FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",20h00 Elche---Real Betis 5 DAZN LALIGA FHD
 http://192.168.1.30:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png",3h00 Valencia---Real Madrid 8 SETANTA 2 RU FHD
-http://192.168.1.30:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h00 Valencia---Real Madrid 9 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h00 Elche---Real Betis 6 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",3h00 St Mirren---Rangers 1 SKY FOOTBALL FHD
-http://192.168.1.30:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",3h00 St Mirren---Rangers 2 SKY ME FHD
-http://192.168.1.30:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport-extra.png",3h00 St Mirren---Rangers 3 POLSAT SPORT 2 FHD
-http://192.168.1.30:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",3h00 Excelsior---Go Ahead Eagles 1 ESPN BE FHD
-http://192.168.1.30:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",3h05 PSG---Troyes 1 ELEVEN 3 FHD
-http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png",3h05 PSG---Troyes 2 SPORT 5+ IL FHD
-http://192.168.1.30:6878/ace/getstream?id=020dd0e3c99c04b9ec60ffcb9fb83ad1849b35eb
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",3h05 PSG---Troyes 3 SETANTA 1 RU FHD
-http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",3h05 PSG---Troyes 4 BEIN 2 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h05 PSG---Troyes 5 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",3h30 Sporting CP---Moreirense 1 MATCH 3 FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",20h00 Çorum Belediyespor---Fenerbahçe 1 MATCH 3 FHD
 http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",3h30 Sporting CP---Moreirense 2 SPORTDIGITAL FHD
-http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",3h30 Sporting CP---Moreirense 3 SPORT 2 IL FHD
-http://192.168.1.30:6878/ace/getstream?id=91d55b166a56acf8604f114be8c4e4a01b255a9f
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",3h30 Sporting CP---Moreirense 4 BEIN 2 FR FHD
-http://192.168.1.30:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",3h30 Sporting CP---Moreirense 5 BEIN 3 TR FHD
-http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h30 Sporting CP---Moreirense 6 PIMPLETV 5 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",20h00 Çorum Belediyespor---Fenerbahçe 2 BEIN 1 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h00 Çorum Belediyespor---Fenerbahçe 3 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",20h15 Spartak Moskva---Akron 1 MATCH PREMIER FHD
+http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png",20h15 Spartak Moskva---Akron 2 MATCH TV FHD
+http://192.168.1.30:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h15 Spartak Moskva---Akron 3 PIMPLETV 4 FHD 50FPS
 http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",3h30 Boca Juniors---Defensa y Justicia 1 SPORT 2 IL FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",20h30 Twente---Ajax 1 ESPN BE FHD
+http://192.168.1.30:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",20h30 Twente---Ajax 2 SPORTDIGITAL FHD
+http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-4-1024.png",20h30 Twente---Ajax 3 SPORT 4 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=440265fecde5d316e06fea019775208cf4c3feec
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png",20h45 Jagiellonia Białystok---Katowice 1 CANAL+ SPORT 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",21h00 CRYSTAL PALACE---LIVERPOOL 1 SKY ME FHD
+http://192.168.1.30:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",21h00 CRYSTAL PALACE---LIVERPOOL 2 ELEVEN 1 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h00 CRYSTAL PALACE---LIVERPOOL 3 PIMPLETV 3 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",21h00 CRYSTAL PALACE---LIVERPOOL 4 SPORT 2 IL FHD
 http://192.168.1.30:6878/ace/getstream?id=91d55b166a56acf8604f114be8c4e4a01b255a9f
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-liga-de-campeones.png",3h30 Boca Juniors---Defensa y Justicia 2 M LC FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",21h00 CRYSTAL PALACE---LIVERPOOL 5 SETANTA 1 RU FHD
+http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-4-704.png",21h00 CRYSTAL PALACE---LIVERPOOL 6 BEIN 4 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png",21h00 SUNDERLAND---CHELSEA 1 SKY PL FHD
+http://192.168.1.30:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",21h00 SUNDERLAND---CHELSEA 2 ELEVEN 2 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",21h00 SUNDERLAND---CHELSEA 3 DAZN 2 ES FHD
+http://192.168.1.30:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-cz-2780.png",21h00 SUNDERLAND---CHELSEA 4 CANAL+ SPORT CZ FHD
+http://192.168.1.30:6878/ace/getstream?id=fc702b72e42792a13c1f531004c2df2ac8242b69
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",21h00 SUNDERLAND---CHELSEA 5 BEIN 3 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-football-91.png",21h00 IPSWICH TOWN---BOURNEMOUTH 1 SKY FOOTBALL FHD
+http://192.168.1.30:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",21h00 Genoa---AC Milan 1 MATCH 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",21h00 Genoa---AC Milan 2 ELEVEN 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",21h00 Genoa---AC Milan 3 SPORT 3 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb0a
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",21h00 Genoa---AC Milan 4 SSPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h00 Genoa---AC Milan 5 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",21h00 Monza---Atalanta 1 ELEVEN 4 FHD
+http://192.168.1.30:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h00 Rennes---Lille 1 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",21h30 Köln---Leverkusen 1 ELEVEN 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png",21h30 Köln---Leverkusen 2 ELEVEN 4 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",21h30 Köln---Leverkusen 3 DAZN 1 DE FHD
+http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",21h30 Köln---Leverkusen 4 BEIN 2 FR FHD
+http://192.168.1.30:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",21h30 Köln---Leverkusen 5 PIMPLETV 6 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",22h15 Real Sociedad---Rayo Vallecano 1 MATCH 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",22h15 Real Sociedad---Rayo Vallecano 2 ELEVEN 3 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",22h15 Real Sociedad---Rayo Vallecano 3 PREMIER SPORT 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",22h15 Real Sociedad---Rayo Vallecano 4 M LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h15 Real Sociedad---Rayo Vallecano 5 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",22h30 Alanyaspor---Trabzonspor 1 MATCH 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-4-1024.png",22h30 Alanyaspor---Trabzonspor 2 SPORT 4 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=440265fecde5d316e06fea019775208cf4c3feec
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",22h30 Alanyaspor---Trabzonspor 3 BEIN 1 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h30 Alanyaspor---Trabzonspor 4 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",22h30 Zenit---Rostov 1 MATCH PREMIER FHD
+http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h30 Zenit---Rostov 2 PIMPLETV 4 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-2-242.png",22h45 Cambuur---PSV 1 ESPN 2 BE FHD
+http://192.168.1.30:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",22h45 Cambuur---PSV 2 SPORTDIGITAL FHD
+http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h15 Le Mans---Monaco 1 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-premier-league-90.png",23h30 MAN UTD---ASTON VILLA 1 SKY PL FHD
+http://192.168.1.30:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sports-main-event-663.png",23h30 MAN UTD---ASTON VILLA 2 SKY ME FHD
+http://192.168.1.30:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",23h30 MAN UTD---ASTON VILLA 3 ELEVEN 1 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",23h30 MAN UTD---ASTON VILLA 4 DAZN 2 ES FHD
+http://192.168.1.30:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h30 MAN UTD---ASTON VILLA 5 PIMPLETV 3 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-liga-de-campeones.png",23h30 MAN UTD---ASTON VILLA 6 M LC FHD
 http://192.168.1.30:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h30 Boca Juniors---Defensa y Justicia 3 PIMPLETV 5 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png",23h30 MAN UTD---ASTON VILLA 7 SPORT 1 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-cz-2780.png",23h30 MAN UTD---ASTON VILLA 8 CANAL+ SPORT CZ FHD
+http://192.168.1.30:6878/ace/getstream?id=fc702b72e42792a13c1f531004c2df2ac8242b69
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",23h30 MAN UTD---ASTON VILLA 9 SETANTA 1 RU FHD
+http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",23h30 MAN UTD---ASTON VILLA 10 BEIN 3 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",23h30 Freiburg---Union Berlin 1 ELEVEN 4 FHD
+http://192.168.1.30:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png",23h30 Freiburg---Union Berlin 2 ELEVEN 4 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",23h30 Freiburg---Union Berlin 3 DAZN 2 DE FHD
+http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h30 Freiburg---Union Berlin 4 PIMPLETV 6 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",0h00 Inter Milan---Como 1 MATCH 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",0h00 Inter Milan---Como 2 ELEVEN 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png",0h00 Inter Milan---Como 3 BT SPORT 4 FHD
+http://192.168.1.30:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",0h00 Inter Milan---Como 4 SPORT 3 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=e4fe8f324753ec40b2d3a238a64febd68c87cb0a
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png",0h00 Inter Milan---Como 5 ZIGGO SPORT FHD
+http://192.168.1.30:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-voetbal.png",0h00 Inter Milan---Como 6 ZIGGO SPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",0h00 Inter Milan---Como 7 SSPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h00 Inter Milan---Como 8 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",0h00 Viktoria Plzeň---Sparta Praha 1 SPORTDIGITAL FHD
+http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/polsat-sport-premium-1.png",0h00 Viktoria Plzeň---Sparta Praha 2 POLSAT PREMIUM 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",0h30 Villarreal---Getafe 1 MATCH 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",0h30 Villarreal---Getafe 2 ELEVEN 2 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",0h30 Villarreal---Getafe 3 PREMIER SPORT 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",0h30 Villarreal---Getafe 4 DAZN LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h30 Villarreal---Getafe 5 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",0h30 Celta de Vigo---Levante 1 ELEVEN 3 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",0h30 Celta de Vigo---Levante 2 M LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",0h45 Baltika---Dynamo Makhachkala 1 MATCH PREMIER FHD
+http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",0h45 Baltika---Dynamo Makhachkala 2 PIMPLETV 4 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",1h00 Vitória Guimarães---Porto 1 MATCH 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",1h00 Vitória Guimarães---Porto 2 ELEVEN 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",1h00 Vitória Guimarães---Porto 3 SPORT 2 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=91d55b166a56acf8604f114be8c4e4a01b255a9f
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",1h00 Vitória Guimarães---Porto 4 BEIN 2 FR FHD
+http://192.168.1.30:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",1h00 Vitória Guimarães---Porto 5 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",1h00 Beşiktaş---Gençlerbirliği 1 BEIN 1 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+
+
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",1h30 Hoffenheim---Schalke 04 1 DAZN 1 DE FHD
+http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png",1h30 Hoffenheim---Schalke 04 2 ELEVEN 4 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",1h30 Hoffenheim---Schalke 04 3 PIMPLETV 6 FHD 50FPS
+http://192.168.1.30:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-1-241.png",2h00 Utrecht---NEC 1 ESPN BE FHD
+http://192.168.1.30:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",2h45 Fiorentina---Juventus 1 MATCH 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",2h45 Fiorentina---Juventus 2 ELEVEN 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",2h45 Fiorentina---Juventus 3 BT SPORT 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png",2h45 Fiorentina---Juventus 4 BT SPORT 4 FHD
+http://192.168.1.30:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="LIVE" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-voetbal.png",2h45 Fiorentina---Juventus 5 ZIGGO SPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/s-sport-2-turkey.png",2h45 Fiorentina---Juventus 6 SSPORT 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=367f1bb1d5e85bbffcc14bd8b7297da7f4fa2e51
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h45 Fiorentina---Juventus 7 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png",2h45 Lens---Marseille 1 ELEVEN 4 FHD
+http://192.168.1.30:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",2h45 Lens---Marseille 2 BEIN 2 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h45 Lens---Marseille 3 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",3h00 Atlético Madrid---Barcelona 1 MATCH 2 FHD
+http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",3h00 Atlético Madrid---Barcelona 2 ELEVEN 1 PT FHD
+http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",3h00 Atlético Madrid---Barcelona 3 PREMIER SPORT 1 FHD
+http://192.168.1.30:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",3h00 Atlético Madrid---Barcelona 4 DAZN 2 DE FHD
+http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ziggo-sport-select-netherlands.png",3h00 Atlético Madrid---Barcelona 5 ZIGGO SPORT FHD
+http://192.168.1.30:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",3h00 Atlético Madrid---Barcelona 6 M LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",3h00 Atlético Madrid---Barcelona 7 SETANTA 1 RU FHD
+http://192.168.1.30:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h00 Atlético Madrid---Barcelona 8 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png",3h30 Estrela---Benfica 1 MATCH 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png",3h30 Estrela---Benfica 2 ELEVEN 3 FHD
+http://192.168.1.30:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",3h30 Estrela---Benfica 3 SPORTDIGITAL FHD
+http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png",3h30 Estrela---Benfica 4 SPORT 2 IL FHD
+http://192.168.1.30:6878/ace/getstream?id=91d55b166a56acf8604f114be8c4e4a01b255a9f
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",3h30 Estrela---Benfica 5 BEIN 2 FR FHD
+http://192.168.1.30:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",3h30 Estrela---Benfica 6 BEIN 3 TR FHD
+http://192.168.1.30:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h30 Estrela---Benfica 7 PIMPLETV 5 FHD 50FPS
+#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 
 
 
