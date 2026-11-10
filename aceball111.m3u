@@ -1,6 +1,6 @@
 ﻿#EXTM3U url-tvg="http://bit.ly/guidevn"
 
-#EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",✍ Kham Pha 9/11--10/11
+#EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",✍ Kham Pha 10/11--11/11
 http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8d2
 #EXTINF:-1 tvg-logo="https://cdn-www.bluestacks.com/bs-images/6afe0936c9d1e5e57d9fb72490019092.png",CÁC BÁC CHÚ Ý
 http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8d2
@@ -16,29 +16,19 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",23h30 Veles---KAMAZ 1 MATCH PREMIER FHD
-http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",23h30 Veles---KAMAZ 2 PIMPLETV 4 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tvp-sport-561.png",0h45 WOMEN Real Madrid---Paris FC 1 TVP SPORT FHD
+http://192.168.1.30:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",0h00 WOMEN Cologne---RB Leipzig 1 DAZN 1 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-sport1-166.png",0h00 WOMEN Cologne---RB Leipzig 2 SPORT1 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",1h00 Anaitasuna FT---Deportivo Alavés 1 M LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",2h30 Plymouth Parkway---Berkhamsted 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",2h30 Sabadell---Real Sociedad II 1 MATCH 2 FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png",3h00 Tavernes---Valencia 1 MATCH 2 FHD
 http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",2h30 Sabadell---Real Sociedad II 2 ELEVEN 1 PT FHD
-http://192.168.1.30:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",2h30 Sabadell---Real Sociedad II 3 DAZN 2 DE FHD
-http://192.168.1.30:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h30 Sabadell---Real Sociedad II 4 PIMPLETV 5 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",3h00 Tavernes---Valencia 2 M LALIGA FHD
+http://192.168.1.30:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",3h00 Tavernes---Valencia 3 PIMPLETV 5 FHD 50FPS
 #http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
 
 
