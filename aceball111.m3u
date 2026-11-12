@@ -17,7 +17,7 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",22h00 Uzbekistan---Russia 1 PIMPLETV 5 FHD 50FPS
-#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
 
 #EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",0h00 Turkey---Belgium 1 DAZN 1 DE FHD
@@ -79,7 +79,7 @@ http://192.168.1.30:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d7208
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/a-sport-turkey.png",2h45 Italy---France 7 A SPOR FHD
 http://192.168.1.30:6878/ace/getstream?id=b2de6896bde31180ac213fce395c437fa3b2a892
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",2h45 Italy---France 8 PIMPLETV 5 FHD 50FPS
-#http://192.168.1.30:6878/ace/getstream?id=658b488a9abbab9ae832f0b4671ea9e9db055107
+http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-3-1023.png",2h45 Czech Republic---Spain 1 SPORT 3 IL FHD
