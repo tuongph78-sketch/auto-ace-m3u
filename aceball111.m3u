@@ -16,26 +16,6 @@ http://192.168.1.30:6878/ace/getstream?id=01ca28470d6b820ed715f83e0621be9b8586e8
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",11h00 Auckland---Melbourne Victory 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",13h00 Central Coast Mariners---Perth Glory 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png",15h40 Brisbane Roar---Sydney FC 1 BT SPORT 1 FHD
-http://192.168.1.30:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportdigital-167.png",15h40 Brisbane Roar---Sydney FC 2 SPORTDIGITAL FHD
-http://192.168.1.30:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",17h00 Orenburg---Baltika 1 MATCH PREMIER FHD
-http://192.168.1.30:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",17h00 Orenburg---Baltika 2 PIMPLETV 4 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
-
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",17h30 Gençlerbirliği---Gaziantep FK 1 BEIN 2 TR FHD
 http://192.168.1.30:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 
@@ -111,7 +91,7 @@ http://192.168.1.30:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",20h00 Galatasaray---Samsunspor 2 BEIN 1 TR FHD
 http://192.168.1.30:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",20h00 Galatasaray---Samsunspor 3 PIMPLETV 2 FHD 50FPS
-http://192.168.1.30:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+http://192.168.1.30:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",20h00 Amed SK---Rizespor 1 BEIN 2 TR FHD
